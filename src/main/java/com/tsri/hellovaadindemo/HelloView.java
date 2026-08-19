@@ -24,7 +24,7 @@ public class HelloView extends VerticalLayout {
             if (value == null || value.trim().isEmpty()) {
                 hello.setText("HELLO!!");
             } else {
-                hello.setText("HELLO " + value + "!!");
+                hello.setText("HELLO " + value + "!!!!!");
             }
         });
 
